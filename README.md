@@ -1,3 +1,4 @@
+![]( https://visitor-badge.glitch.me/badge?page_id=lmc999_tiny)
 # 用法
     wget https://raw.githubusercontent.com/lmc999/TinyPortMapper_KeepAlive/master/tinymapper.sh && bash tinymapper.sh
 
